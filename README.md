@@ -47,5 +47,5 @@ Follow these exact steps to launch the engine within your local development envi
 
 ### 1. Clone the Architecture
 ```bash
-git clone [https://github.com/YOUR_USERNAME/restaurant-customer-analytics.git](https://github.com/YOUR_USERNAME/restaurant-customer-analytics.git)
+git clone https://github.com/YOUR_USERNAME/restaurant-customer-analytics.git
 cd restaurant-customer-analytics
